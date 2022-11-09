@@ -1,8 +1,8 @@
 ### Gabriel Kakizaki
 I am:
+- 🧑 A data scientist with 2+ years of experience.
 - 📚 Pursuing a bachelor's degree in computer science.
 - 🤓 Learning something random in my free time (currently graphics programming).
-- 🧑 A data scientist with 2+ years of experience.
 
 #### Contact
 Feel free to reach me at:
