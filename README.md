@@ -2,7 +2,7 @@
 I am:
 - 🧑 A data scientist with 2+ years of experience.
 - 📚 Pursuing a bachelor's degree in computer science.
-- 🤓 Learning something random in my free time (currently graphics programming).
+- 🤓 Learning something random in my free time (currently drawing).
 
 #### Contact
 Feel free to reach me at:
